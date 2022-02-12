@@ -4,7 +4,7 @@ A simple Chromium extension that fixes the problem of wide profile pictures in M
   <img width="300" src="https://github.com/itayoshri/MashovWidePPFixer/blob/main/wide%20profile%20picture.png" alt="An example of the problem">
 </p>
 
-### A simple code that fixes the problem:
+### A simple code that can be written in the console and fixes the problem:
 ```js
 const studentProfilePicture = document.getElementsByClassName('mshv-student-thumbnail')[0]
 
